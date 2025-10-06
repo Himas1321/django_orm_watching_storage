@@ -7,7 +7,11 @@ django.setup()
 
 from datacenter.models import Passcard  # noqa: E402
 
+<<<<<<< HEAD
 # passcards = Passcard.objects.all()
+=======
+passcards = Passcard.objects.all()
+>>>>>>> 90d7a278545fd8095d5172cbb20e175fd46c7611
 
 active_passcards = Passcard.objects.filter(is_active=True)
 active_cards = len(active_passcards)
