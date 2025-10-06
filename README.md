@@ -22,7 +22,6 @@ pip install -r requirements.txt
     * В *NAME* хранится имя базы данных
     * В *USER* хранится логин для покдлючения
     * В *PASSWORD* хранится пароль от *USER* для подключения
->>>>>>> 90d7a278545fd8095d5172cbb20e175fd46c7611
 
 * В *SECRET_KEY* хранится ключ для подключения. 
 * *DEBUG* принимает значение из переменной окружения или значение по умолчнию. 
@@ -36,6 +35,4 @@ python main.py
 # Пример использования
 <<<<<<< HEAD
 После запуска в консоли вы увидите <img width="317" height="56" alt="image" src="https://github.com/user-attachments/assets/5fa44428-ed1e-43d1-93d8-04add12654e1" />
-=======
-После запуска в консоли вы увидите <img width="317" height="56" alt="image" src="https://github.com/user-attachments/assets/5fa44428-ed1e-43d1-93d8-04add12654e1" />
->>>>>>> 90d7a278545fd8095d5172cbb20e175fd46c7611
+
