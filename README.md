@@ -8,7 +8,6 @@ pip install -r requirements.txt
 ```
 
 * В *DATABASES* указываются данные для подключения к базе данных:
-<<<<<<< HEAD
     * В *DB_ENGINE* указывается тип базы данных, к которой нужно подключиться.
     * В *DB_HOST* хранится имя хоста для подключения
     * В *DB_PORT* хранится порт для подключения
@@ -33,6 +32,5 @@ python main.py
 ```
 
 # Пример использования
-<<<<<<< HEAD
 После запуска в консоли вы увидите <img width="317" height="56" alt="image" src="https://github.com/user-attachments/assets/5fa44428-ed1e-43d1-93d8-04add12654e1" />
 
